@@ -1,0 +1,5 @@
+Hi,
+
+You currently have ${no_of_invoice} in your Stampli inbox waiting for your approval. Please review and approve so we can process them for payment. 
+
+Thank you, 
